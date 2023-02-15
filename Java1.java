@@ -10,5 +10,6 @@ public class Java1 {
             System.out.println("Java is designed for distributed environment");
             System.out.println("Java virtual machine");
             System.out.println("Java run time environment");
+            System.out.println("Finish");
     }
 }
